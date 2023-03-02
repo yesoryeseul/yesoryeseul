@@ -3,6 +3,8 @@
 <h2 align="center">
   :raised_hands: Hello! I'm Yeseul
 </h2>
+
+## :raised_hands: Hello! I'm Yeseul
  
 
 <!--
