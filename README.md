@@ -5,6 +5,10 @@
 </h2>
 
 ## :raised_hands: Hello! I'm Yeseul
+
+<center>
+  ## :raised_hands: Hello! I'm Yeseul
+ </center>
  
 
 <!--
