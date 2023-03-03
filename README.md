@@ -25,10 +25,10 @@
 </div>
   
 <div>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=appveyor&logo=HTML&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=appveyor&logo=HTML&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=appveyor&logo=JavaScript&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=appveyor&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo==HTML&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
 <div>
