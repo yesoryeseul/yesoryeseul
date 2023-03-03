@@ -26,7 +26,7 @@
   
 <div>
   
-  ## Skills
+  ## :sparkles: Skills
   
   ### Language
   
