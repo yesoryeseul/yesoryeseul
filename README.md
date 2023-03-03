@@ -15,7 +15,7 @@
   
 <div>
   
-  ## :raised_hands: Social
+  ## :speech_balloon: Social
  
 [![Github Badge](https://img.shields.io/badge/-Github-24292F?style=flat&logo=Github&logoColor=white&link=https://github.com/yesoryeseul/)](https://github.com/yesoryeseul)
 [![Instagram Bagde](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/yes_or_yeseul/)](https://www.instagram.com/yes_or_yeseul)
