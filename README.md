@@ -7,7 +7,7 @@
   
 <div>
   
-  ## :raised_hands: Hello! I'm Yeseul
+  ## :raised_hands: Hello! I'm Yeseul !
   
   항상 출발선 앞에서의 떨림을 가지며, <br> 차근차근 앞으로 달려나가는 것이 목표인 신입 개발자입니다!
   
