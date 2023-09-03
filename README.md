@@ -15,7 +15,7 @@
   
 <div>
   
-  ## :link: Social
+  ### :link: SOCIAL
  
 <!-- [![Github Badge](https://img.shields.io/badge/-Github-24292F?style=flat&logo=Github&logoColor=white&link=https://github.com/yesoryeseul/)](https://github.com/yesoryeseul) -->
 [![Instagram Bagde](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/yes_or_yeseul/)](https://www.instagram.com/yes_or_yeseul)
@@ -26,7 +26,7 @@
   
 <div>
   
-  ## :sparkles: Skills
+  ### :sparkles: SKILLS
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
@@ -37,9 +37,12 @@
 
 <div>
   
-  #### Tools
+  ### 🔧 TOOLS & COMMUNICATION
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
 
 </div>
   
