@@ -16,9 +16,8 @@
 <div>
   
   ### :link: SOCIAL
- 
-<!-- [![Github Badge](https://img.shields.io/badge/-Github-24292F?style=flat&logo=Github&logoColor=white&link=https://github.com/yesoryeseul/)](https://github.com/yesoryeseul) -->
-[![Velog Bagde](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@yesoryeseul)]([https://www.instagram.com/yes_or_yeseul](https://velog.io/@yesoryeseul))
+
+<a href="https://velog.io/@yesoryeseul"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@yesoryeseul"/></a>
 <a href="https://electric-record-375.notion.site/66a868c65e094cb38e607cb99dc8a472?v=5ee4fc253af54800a5f4830bef63bb78&pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/Yeseul-Blog-de0174d5454f4e3a995edef497344962"/></a>
 <a href="mailto:yesoryeseul@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:yesoryeseul@gmail.com"/></a>
 
